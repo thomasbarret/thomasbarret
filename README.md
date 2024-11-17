@@ -1,5 +1,10 @@
 # 💫 About Me:
-🎉 Hi, I’m **Thomas**!  <br>💻 A 19-year-old developer.<br>📚 Currently studying at **42 Paris** to sharpen my skills in software development.  <br>🚀 Passionate about problem-solving and creating innovative solutions.  <br>👀 I’m actively looking for an **internship** to grow and contribute to exciting projects!  <br><br>📫 Let’s connect and build something amazing together!
+🎉 Hi, I’m **Thomas**!  <br>💻 A 19-year-old developer.<br>📚 Currently studying at **42 Paris** to sharpen my skills in software development.  <br>🚀 Passionate about problem-solving and creating innovative solutions.<br>📫 Let’s connect and build something amazing together!
+
+**I have completed the core curriculum at 42 School and I am part of the November 2023 cohort.**
+**I have been extensively working in the Node.js environment for the past 5 years.**
+
+👀 I’m actively looking for an **internship** to grow and contribute to exciting projects!
 
 
 # 💻 Stack:
